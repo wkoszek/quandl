@@ -1,2 +1,1 @@
-# sharadar
-CLI for working with SHARADAR / Quandl datasets
+# CLI for working with SHARADAR / Quandl datasets
